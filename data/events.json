@@ -1,9 +1,9 @@
 [
   {
-    "timestamp": "2025-06-21T15:13:55Z",
-    "entities": "Kraken",
-    "topic": "cyberattack",
+    "entities": "financial custodians",
+    "eventSummary": "An FBI warning has been issued regarding a surge in 2FA bypass attacks. Additionally, a cybersecurity firm reports that hackers are spying on Android phones in real-time, targeting over 500 bank, crypto, and payment apps to steal sensitive data. There are also reports of suspicious transactions totaling $1.67 million USDC through Coinbase, and a user reporting a cryptocurrency scam involving 6164 USDT on Kraken. Furthermore, there are multiple user reports of issues with Coinbase accounts, including being logged out, rejected devices, and inability to reset passwords, as well as issues with Revolut logins and account freezes, and unknown transfers received on PayPal. Users on Binance and CoinMarketCap are also being warned about scammers.",
     "industry": "finance",
-    "eventSummary": "Kraken is experiencing internal risk control triggers and compliance-related withdrawal rejections due to unusual account activity patterns. Multiple users report inability to withdraw funds and pending transactions for over two days. Kraken acknowledges connectivity issues with their mobile apps and is investigating the situation.\nSources:\n- https://t.me/kraken_exchange_official\n- https://status.kraken.com/incidents/mvxcxggzr92k\n- https://www.reddit.com/r/CoinBase/comments/1lh3j5c/coinbase_withholding_access_to_funds/"
+    "timestamp": "2025-06-28T16:45:19Z",
+    "topic": "cyberattack"
   }
 ]
