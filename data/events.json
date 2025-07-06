@@ -1,9 +1,23 @@
 [
   {
     "entities": "financial custodians",
-    "eventSummary": "An FBI warning has been issued regarding a surge in 2FA bypass attacks. Additionally, a cybersecurity firm reports that hackers are spying on Android phones in real-time, targeting over 500 bank, crypto, and payment apps to steal sensitive data. There are also reports of suspicious transactions totaling $1.67 million USDC through Coinbase, and a user reporting a cryptocurrency scam involving 6164 USDT on Kraken. Furthermore, there are multiple user reports of issues with Coinbase accounts, including being logged out, rejected devices, and inability to reset passwords, as well as issues with Revolut logins and account freezes, and unknown transfers received on PayPal. Users on Binance and CoinMarketCap are also being warned about scammers.",
+    "eventSummary": "A bank insider allegedly forged names and created fake withdrawal slips, leading to the draining of $75,000 from eight customer accounts. Sources:\n- https://cryptopanic.com/news/23066179/Bank-Insider-Reportedly-Forges-Names-and-Fills-Out-Fake-Withdrawal-Slips-Drains-75000-From-Accounts-of-Eight-Customers",
     "industry": "finance",
-    "timestamp": "2025-06-28T16:45:19Z",
+    "timestamp": "2025-07-06T00:05:27Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "A billion-dollar bank is reportedly compensating a data breach victim after a cybersecurity incident exposed personal and financial information, including names, social security numbers, and account details. Sources:\n- https://cryptopanic.com/news/23063970/Billion-Dollar-Bank-Handing-Thousands-of-Dollars-To-Data-Breach-Victim-After-Cybersecurity-Incident-Exposed-Names-Social-Security-Numbers-Account-Details",
+    "industry": "finance",
+    "timestamp": "2025-07-05T18:34:33Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "Ingram Micro",
+    "eventSummary": "Ingram Micro experienced an outage attributed to a SafePay ransomware attack. The attack was reported by Lawrence Abrams. Sources:\n- https://twitter.com/50026664/status/1941527257182306730",
+    "industry": "finance",
+    "timestamp": "2025-07-05T15:59:04Z",
     "topic": "cyberattack"
   }
 ]
