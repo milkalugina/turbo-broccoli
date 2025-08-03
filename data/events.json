@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "entities": "financial custodians",
+    "eventSummary": "A massive data breach has potentially exposed Social Security Numbers, Driver’s License Numbers, and addresses of 68,587 Americans at a financial firm. Account takeover attacks are on the rise, and malware disguised as legitimate apps is cracking bank accounts, affecting 200,000 potential victims. Coinbase is also linked to a customer data leak in India. Users of financial platforms like PayPal, Gemini, and Interactive Brokers are reporting issues with account access, including locked or permanently deactivated accounts, and unauthorized logins. There are also warnings about 'Quishing' scams using QR codes.",
+    "industry": "finance",
+    "timestamp": "2025-08-02T13:11:07Z",
+    "topic": "cyberattack"
+  }
+]
