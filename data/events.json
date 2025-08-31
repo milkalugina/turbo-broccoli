@@ -1,23 +1,9 @@
 [
   {
-    "entities": "Firefox",
-    "eventSummary": "Dozens of fake wallet add-ons were recently discovered on Firefox's official stores, designed to steal seed phrases. Users are advised to audit extensions and only use official wallet links.\nSources:\n- https://t.me/Kucoin_News/31604",
+    "timestamp": "Tue Aug 26 2025 21:09:46 GMT+0000 (Coordinated Universal Time)",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
     "industry": "finance",
-    "timestamp": "2025-08-10T09:03:01Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "Coinbase",
-    "eventSummary": "A user reported a suspicious call claiming to be from Coinbase regarding an 'external wallet connected,' which attempted to bypass 2FA.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1mly5uo/call_from_coinbase_due_to_external_wallet/",
-    "industry": "finance",
-    "timestamp": "2025-08-09T22:20:38Z",
-    "topic": "cyberattack"
-  },
-  {
-    "entities": "Wells Fargo, JPMorgan Chase, US Bank",
-    "eventSummary": "Scammers have drained over $100,000 from bank accounts, with police indicating that Zelle, Wells Fargo, JPMorgan Chase, US Bank, and Bitcoin were targeted.\nSources:\n- https://news.google.com/rss/articles/CBMiggJBVV95cUxQUFpVdWRidkpTVHZIbVBJUHMwWDZ5ajlZWDdvc0NfYTdtR2lMVV9QdTFqbUpSUUhnak5zdlU5eXM0dDVmZExIS2h4WlFIN0wyLTROU1VISXFhaHFvZHE3QUpsN2JTUG4ydkVOY1hhTVR2YV91TjlHMHd1d2FLRUVwbGxwcUt6ckVqdWpfRTVWenJMdVlwVjQtaXBSSkhTeGw2T2IyZktUUFUxeXItVUduZ3hqUG1LWGEtWmpOWHNwVUEzZTNsUkZOSURrOGU1WVZDemkxajNVcGlwd3BtTlFwVG9oU2RWbWFucVowY19zcGxUZlVPUXVjVFJKei1xNElxTHfSAYcCQVVfeXFMUDJsTDhFY2F5ZUU2Y2x4YkZ1YkQ4WDFONFZzODZRYkVtZy1SalA5NWRsOUpMRGx5aF9NRW0wZVJsWDllbjZVOURuNFhPMVc5cldDRWhUcmgwSEs5ZTNScTAyM3pNcVBVdjRXdUJjVU00VU9JTm5nU3RNMklGVW95dU9zRVpjUkV4WG1Kc1hHc2tpNDBCRnNfN0N5NFo2ZkhDbFRRWEVsME43ZFAwczlybHJpRnpmMWswc2VfQlYtYmlWLUVzRVlBbWRpTFZQclo3VjNMdUlKVFBnMmFoQ21OcTRCMFNIYm5HVjB5OXBkdEN4WGt0aVEyS0JmcEhrQjFaN2NIMkZFMjA?oc=5\n- https://cryptopanic.com/news/24068781/Bank-Customers-Warned-As-Scammers-Drain-Over-100000-From-Accounts-Police-Say-Zelle-Wells-Fargo-JPMorgan-Chase-US-Bank-and-Bitcoin-Targeted",
-    "industry": "finance",
-    "timestamp": "2025-08-09T17:19:31Z",
-    "topic": "cyberattack"
+    "eventSummary": "Binance has issued a warning about an increase in Account Takeover attacks and fake support calls targeting users, advising on how to protect digital identity. Coinbase users are also reporting phishing texts and scam calls.\nSources:\n- https://www.binance.com/en/blog/security/stay-safe-how-to-detect-and-avoid-account-takeover-attacks-6298893419290063574\n- https://news.google.com/rss/articles/CBMif0FVX3lxTE13Ul82M2sxc2FEai1TYVUyN21idXhtZzJaTkpkaVRzb3E3M3Z1d25uNjRoeFNwLU5qTjhiTm1yVHh2SWt2VUppMjZ3VFI5Q0cyeDRPYllFQlctczV0ck16V2JKbGVTaWNWOFpzNUZfT3dUUnZyRXpQVTQtTkVzbWM?oc=5\n- https://www.reddit.com/r/CoinBase/comments/1n4bgv6/coinbase_phishing_text/"
   }
 ]
