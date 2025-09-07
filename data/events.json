@@ -1,9 +1,9 @@
 [
   {
-    "timestamp": "Tue Aug 26 2025 21:09:46 GMT+0000 (Coordinated Universal Time)",
+    "timestamp": "2025-09-06T21:16:53Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Binance has issued a warning about an increase in Account Takeover attacks and fake support calls targeting users, advising on how to protect digital identity. Coinbase users are also reporting phishing texts and scam calls.\nSources:\n- https://www.binance.com/en/blog/security/stay-safe-how-to-detect-and-avoid-account-takeover-attacks-6298893419290063574\n- https://news.google.com/rss/articles/CBMif0FVX3lxTE13Ul82M2sxc2FEai1TYVUyN21idXhtZzJaTkpkaVRzb3E3M3Z1d25uNjRoeFNwLU5qTjhiTm1yVHh2SWt2VUppMjZ3VFI5Q0cyeDRPYllFQlctczV0ck16V2JKbGVTaWNWOFpzNUZfT3dUUnZyRXpQVTQtTkVzbWM?oc=5\n- https://www.reddit.com/r/CoinBase/comments/1n4bgv6/coinbase_phishing_text/"
+    "eventSummary": "A cyberattack last week exploited stolen credentials for the Brazilian real-time payment system Pix, diverting hundreds of millions of dollars. This incident highlights concerns about real-time payment fraud.\nSources:\n- https://www.americanbanker.com/news/brazilian-heist-highlights-real-time-payment-fraud-concerns"
   }
 ]
