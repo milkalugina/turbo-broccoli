@@ -1,9 +1,9 @@
 [
   {
-    "timestamp": "2025-09-06T21:16:53Z",
+    "timestamp": "2025-09-13T16:51:24Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A cyberattack last week exploited stolen credentials for the Brazilian real-time payment system Pix, diverting hundreds of millions of dollars. This incident highlights concerns about real-time payment fraud.\nSources:\n- https://www.americanbanker.com/news/brazilian-heist-highlights-real-time-payment-fraud-concerns"
+    "eventSummary": "Bridge hacks accounted for 69% of all stolen crypto funds in 2022, totaling nearly $2 billion. These attacks exploit vulnerabilities in complex smart contracts and multi-signature wallets used by bridges like Force Bridge, which lock assets on one blockchain and mint equivalent tokens on another. State-sponsored groups, such as the Lazarus Group, have been linked to high-profile bridge hacks, including the $620 million Ronin network breach. The complexity of cross-chain interactions increases the risk of such attacks."
   }
 ]
